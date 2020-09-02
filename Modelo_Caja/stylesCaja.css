@@ -1,0 +1,13 @@
+/* Etiqueta universal para setear estilos. */
+
+*{
+    margin:0;
+    padding:0;
+}
+
+main{
+    width: 100%;
+    height: 500px;
+    border: 30px solid grey;
+    padding:20px 35px;
+}
